@@ -1,0 +1,14 @@
+name: landsat2nc_env2
+channels:
+- conda-forge
+dependencies:
+- python=3
+- scipy
+- netcdf4
+- matplotlib
+- pillow
+- wheel
+- pytz
+- rioxarray
+- gdal
+- requests
